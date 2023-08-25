@@ -1,0 +1,174 @@
+[
+  {
+    "active": true,
+    "name": "Shampoo Tradicional I Love Pet 5 Litros",
+    "price": 69.9,
+    "description": "Description of Product 1",
+    "image": "base64_encoded_image_data_1",
+    "promotionalPrice": 0,
+    "merchantId": "de1f1e5b-3af8-4350-af85-d13c33337326",
+    "categoryId": "182048df-e250-4fc5-b408-298d2331fb91"
+  },
+  {
+    "active": true,
+    "name": "Cama Londres Azul - Chicxs",
+    "price": 295.9,
+    "description": "Description of Product 1",
+    "image": "base64_encoded_image_data_1",
+    "promotionalPrice": 266.31,
+    "merchantId": "de1f1e5b-3af8-4350-af85-d13c33337326",
+    "categoryId": "55b66203-b0e7-46d6-8ee1-fece231c9695"
+  },
+  {
+    "active": true,
+    "name": "Comedouro Pesado Lilás NF Pet",
+    "price": 15.9,
+    "description": "Description of Product 1",
+    "image": "base64_encoded_image_data_1",
+    "promotionalPrice": 0,
+    "merchantId": "de1f1e5b-3af8-4350-af85-d13c33337326",
+    "categoryId": "55b66203-b0e7-46d6-8ee1-fece231c9695"
+  },
+  {
+    "active": true,
+    "name": "Shampoo Tradicional I Love Pet 10 Litros",
+    "price": 69.9,
+    "description": "Description of Product 1",
+    "image": "base64_encoded_image_data_1",
+    "promotionalPrice": 0,
+    "merchantId": "de1f1e5b-3af8-4350-af85-d13c33337326",
+    "categoryId": "182048df-e250-4fc5-b408-298d2331fb91"
+  },
+  {
+    "active": true,
+    "name": "Shampoo Tradicional I Love Pet 7 Litros",
+    "price": 99.9,
+    "description": "Description of Product 1",
+    "image": "base64_encoded_image_data_1",
+    "promotionalPrice": 79.9,
+    "merchantId": "de1f1e5b-3af8-4350-af85-d13c33337326",
+    "categoryId": "182048df-e250-4fc5-b408-298d2331fb91"
+  },
+  {
+    "active": true,
+    "name": "Shampoo Tradicional I Love Pet 1 Litro",
+    "price": 29.9,
+    "description": "Description of Product 1",
+    "image": "base64_encoded_image_data_1",
+    "promotionalPrice": 0,
+    "merchantId": "de1f1e5b-3af8-4350-af85-d13c33337326",
+    "categoryId": "182048df-e250-4fc5-b408-298d2331fb91"
+  },
+  {
+    "active": true,
+    "name": "Ração Top Premium Pedigree - 295g",
+    "price": 19.9,
+    "description": "Description of Product 1",
+    "image": "base64_encoded_image_data_1",
+    "promotionalPrice": 0,
+    "merchantId": "de1f1e5b-3af8-4350-af85-d13c33337326",
+    "categoryId": "c382ea88-95e2-466b-892b-677c4ce3664e"
+  },
+  {
+    "active": true,
+    "name": "Macaco de pelucia",
+    "price": 49.9,
+    "description": "Description of Product 1",
+    "image": "base64_encoded_image_data_1",
+    "promotionalPrice": 29.9,
+    "merchantId": "de1f1e5b-3af8-4350-af85-d13c33337326",
+    "categoryId": "855fc2ca-1ccb-43f2-99ec-630651ee12fd"
+  },
+
+  {
+    "active": true,
+    "name": "Brinquedo Osso de Borracha",
+    "price": 19.9,
+    "description": "Description of Product 1",
+    "image": "base64_encoded_image_data_1",
+    "promotionalPrice": 0,
+    "merchantId": "de1f1e5b-3af8-4350-af85-d13c33337326",
+    "categoryId": "855fc2ca-1ccb-43f2-99ec-630651ee12fd"
+  },
+  {
+    "active": true,
+    "name": "Brinquedo Bola de Borracha",
+    "price": 9.9,
+    "description": "Description of Product 1",
+    "image": "base64_encoded_image_data_1",
+    "promotionalPrice": 5,
+    "merchantId": "de1f1e5b-3af8-4350-af85-d13c33337326",
+    "categoryId": "855fc2ca-1ccb-43f2-99ec-630651ee12fd"
+  }
+  ,
+  {
+    "active": true,
+    "name": "Brinquedo Chalesco para Cães com Bola de Tênis - Cores Sortidas",
+    "price": 49.9,
+    "description": "Description of Product 1",
+    "image": "base64_encoded_image_data_1",
+    "promotionalPrice": 29.9,
+    "merchantId": "de1f1e5b-3af8-4350-af85-d13c33337326",
+    "categoryId": "855fc2ca-1ccb-43f2-99ec-630651ee12fd"
+  },
+  {
+    "active": true,
+    "name": "Brinquedo Chalesco Sapo",
+    "price": 49.9,
+    "description": "Description of Product 1",
+    "image": "base64_encoded_image_data_1",
+    "promotionalPrice": 29.9,
+    "merchantId": "de1f1e5b-3af8-4350-af85-d13c33337326",
+    "categoryId": "855fc2ca-1ccb-43f2-99ec-630651ee12fd"
+  },
+  {
+    "active": true,
+    "name": "Ração Royal Canin Medium",
+    "price": 159.9,
+    "description": "Description of Product 1",
+    "image": "base64_encoded_image_data_1",
+    "promotionalPrice": 129.9,
+    "merchantId": "de1f1e5b-3af8-4350-af85-d13c33337326",
+    "categoryId": "c382ea88-95e2-466b-892b-677c4ce3664e"
+  },
+  {
+    "active": true,
+    "name": "Ração Royal Canin Mini - Adult",
+    "price": 149.9,
+    "description": "Description of Product 1",
+    "image": "base64_encoded_image_data_1",
+    "promotionalPrice": 119.9,
+    "merchantId": "de1f1e5b-3af8-4350-af85-d13c33337326",
+    "categoryId": "c382ea88-95e2-466b-892b-677c4ce3664e"
+  },
+  {
+    "active": true,
+    "name": "Ração Royal Canin Maxi - Adult",
+    "price": 179.9,
+    "description": "Description of Product 1",
+    "image": "base64_encoded_image_data_1",
+    "promotionalPrice": 0,
+    "merchantId": "de1f1e5b-3af8-4350-af85-d13c33337326",
+    "categoryId": "c382ea88-95e2-466b-892b-677c4ce3664e"
+  },
+  {
+    "active": true,
+    "name": "Ração Royal Canin Maxi - Puppy",
+    "price": 119.9,
+    "description": "Description of Product 1",
+    "image": "base64_encoded_image_data_1",
+    "promotionalPrice": 0,
+    "merchantId": "de1f1e5b-3af8-4350-af85-d13c33337326",
+    "categoryId": "c382ea88-95e2-466b-892b-677c4ce3664e"
+  },
+  {
+    "active": true,
+    "name": "Enlatado Royal Canin - Recovery",
+    "price": 49.9,
+    "description": "Description of Product 1",
+    "image": "base64_encoded_image_data_1",
+    "promotionalPrice": 29.9,
+    "merchantId": "de1f1e5b-3af8-4350-af85-d13c33337326",
+    "categoryId": "c382ea88-95e2-466b-892b-677c4ce3664e"
+  }
+]
